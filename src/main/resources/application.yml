@@ -1,8 +1,8 @@
 spring:
     datasource:
         driver-class-name: com.mysql.jdbc.Driver
-        password: root
-        url: jdbc:mysql://localhost/cms-boot?useUnicode=yes&characterEncoding=UTF-8
+        password: volverine
+        url: jdbc:mysql://localhost/cmsboot?useUnicode=yes&characterEncoding=UTF-8
         username: root
         initialization-mode: never
     http:
